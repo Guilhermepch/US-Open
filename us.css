@@ -1,0 +1,23 @@
+body {
+  background-color: rgb(104, 129, 238);
+}
+h1 {
+  color: #fbff00;
+  font-size: 32px;
+  font-style:italic;
+}
+.titulo {
+    padding: 20px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    text-shadow: 3px 3px 10px rgb(50, 10, 1);
+}
+.imagens {
+    display: flex;
+    gap: 20px;
+}
+
+.imagens img {
+    width: 300px;
+    height: auto;
+}
